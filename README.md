@@ -50,23 +50,37 @@ I focus on accuracy, organization, and delivering high-quality work that helps o
 
 ---
 
-## Portfolio
+##  Project
 
-### Project 1 – Shopify Product Listing
+### Moderny Shopify Store
 
-Completed Tasks
+#### Services Provided
 
-- Product Upload
-- SEO Title & Description
-- Product Variants
-- Inventory Management
-- Product Images
-- Collection Setup
-
-Project screenshots will be added here.
+- Shopify Product Listing
+- Product Page Setup
+- Product Description Formatting
+- Product Variants Setup
+- Collection Organization
+- Store Navigation
+- Shopify Store Management
 
 ---
 
+#### Homepage
+
+![Homepage](Screenshot%202026-06-29%20111423.png)
+
+---
+
+#### Product Page
+
+![Product Page](Screenshot%202026-06-29%20111531.png)
+
+---
+
+#### My Contribution
+
+For this Shopify store, I created product listings, optimized product information, organized collections, managed product details, and ensured a clean, user-friendly shopping experience.
 ### Project 2 – Shopify Store Organization
 
 Completed Tasks
